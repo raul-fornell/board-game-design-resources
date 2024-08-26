@@ -13,7 +13,7 @@ Curated list of resources for board game design.
 
 ## Print and play
 
-Websites where download or buy print and play board games. Is great to see examples of how other designers prepare the files and a cheap way of trying new games. Also, many of them are quick, small or solitaire.
+Websites where you can download or purchase print-and-play board games are great for seeing how other designers prepare their files and provide a cheap way to try new games. Many of these games are also quick to play, small, or designed for solo play.
 
 - <https://www.pnparcade.com/>
 - <https://www.pnpparadise.com/>
@@ -21,13 +21,13 @@ Websites where download or buy print and play board games. Is great to see examp
 
 ## Tokens
 
-Online shops where buy custom tokens for prototyping.
+Online shops where you can buy custom tokens for prototyping.
 
 - <https://cube4me.com/>
 
 ## Icons
 
-Websites to find icons for board game prototyping.
+Websites where you can find icons for board game prototyping.
 
 - <https://game-icons.net/>
 
