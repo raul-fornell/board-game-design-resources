@@ -1,16 +1,21 @@
 # Board game design resources
 
-Curated list of resources for board game design.
+Curated list of resources for board game design, prototyping and playtesting.
 
 - [Board game design resources](#board-game-design-resources)
   - [Print and play](#print-and-play)
   - [Tokens](#tokens)
   - [Print services](#print-services)
   - [Icons](#icons)
-  - [Virtual spaces](#virtual-spaces)
+  - [Virtual worlds](#virtual-worlds)
   - [Designer's talks](#designers-talks)
   - [Designer's diaries](#designers-diaries)
   - [Game design tools](#game-design-tools)
+  - [Monetizing](#monetizing)
+  - [Game design dedicated sites](#game-design-dedicated-sites)
+  - [Calculators](#calculators)
+  - [Design contests](#design-contests)
+  - [Gadgets](#gadgets)
 
 ## Print and play
 
@@ -26,10 +31,25 @@ Online shops where you can buy custom tokens for prototyping.
 
 - <https://cube4me.com/>
 - <https://www.google.com/url?q=https://www.fantasyflightgames.com/en/products/fantasy-flight-supply/> Now out of print, but the wooden and plastic tokens listed here can be found in secondhand markets.
+- <https://www.makemygame.com/>
+- <https://www.chessex.com/>
+- [Plastic bags](https://www.consolidatedplastics.com/collections/reclosable-bags)
+- <https://www.craftparts.com/>
+- <http://www.dice.co.uk/fs_gamcom.htm>
+- <https://koplow.ecadv.com/website/>
+- <https://www.lorenz-spiele.de>
+- [Rubber bands](https://www.maydaygames.com/)
+- <https://meeplesource.com/>
+- <http://www.plasticsforgames.co.uk/>
+- <https://rolcogames.com/>
+- <https://tabletopsupply.co.uk/>
+- <https://toutpourlejeu.com/>
+- <https://www.wholesalersusa.com/>
+- <https://woodnshop.net/craft-parts/>
 
 ## Print services
 
-Online services where you can print your designs in cardboard, create custom components, dice, boxes, etc.
+Online services where you can print your designs in cardboard, create custom components, dice, boxes, etc. Beyond just game tokens.
 
 - <https://www.thegamecrafter.com/>
 - <https://www.drivethrucards.com/>
@@ -40,6 +60,14 @@ Online services where you can print your designs in cardboard, create custom com
 - <https://customdice.com/>
 - <https://www.printplaygames.com/>
 - <https://www.qinprinting.com/custom-board-games-printing-services/>
+- <https://www.admagic.com/custom-board-games.html>
+- <https://www.makemygame.com/>
+- <https://fabryka-kart.eu/en/main>
+- <http://www.gamesandprint.co.uk/>
+- <https://www.gameprototyper.com/?lang=en>
+- <https://www.ivory.co.uk/online-creators>
+- <https://www.ludocards.com/>
+- <https://www.makeplayingcards.com/>
 
 ## Icons
 
@@ -47,9 +75,9 @@ Websites where you can find icons for board game prototyping.
 
 - <https://game-icons.net/>
 
-## Virtual spaces
+## Virtual worlds
 
-Tools to play and test board games in a virtual space.
+Tools to play, create and test board games in a virtual or digital space.
 
 - <https://www.tabletopsimulator.com/>
 - <https://en.boardgamearena.com/>
@@ -92,3 +120,36 @@ Software that helps to design or prototype games.
 - <https://machinations.io/> The online cloud tool for design economies with the machinations framework.
 - [Old Flash version](https://github.com/DleanJeans/Machinations) Simpler, but just works and doesn't need internet. Probably you will need like me, an open source player emulator like [Ruffle](https://ruffle.rs/)
 - <https://www.figma.com/> I specially like the visual components with custom values and variants [explained here](https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Figma)
+
+## Monetizing
+
+Places where you can try to sell your board games without a publisher. Notice, links here appear in other sections too.
+
+- <https://gumroad.com/> I found this place for the game [Mini Rogue](https://mountaingold.gumroad.com/l/MiniRogue12), that has been published in physical format years later. I put 2 games there, but didn't sell anything, so I hope somebody else has more luck than me.
+- <https://www.pnparcade.com/> The first print and play gamed I bought here was [Sprawlopolis](https://www.pnparcade.com/products/spawlopolis?_pos=1&_sid=d64f1f461&_ss=r), and I liked so much that bought later the wallet retail version.
+- <https://www.thegamecrafter.com/> I bought here the [Gate](https://www.thegamecrafter.com/games/gate1) solo deckbuilding game and loved the format and quality.
+
+## Game design dedicated sites
+
+Blogs, guides, recommendations and many topics and resources related to game design in a single place.
+
+- <https://boardgamedesignlab.com/>
+- <https://www.leagueofgamemakers.com/>
+- <https://cardboardedison.com/>
+
+## Calculators
+
+- <https://www.mathsisfun.com/combinatorics/combinations-permutations-calculator.html>
+- <https://www.mathcelebrity.com/cointoss.php?hts>
+- <https://stattrek.com/online-calculator/hypergeometric>
+
+## Design contests
+
+- <https://cardboardedison.com/contests>
+
+## Gadgets
+
+Tools I have or would like to buy because can help with the prototyping. I also enjoy the hand crafting of game prototypes.
+
+- [Brother Scan & Cut](https://sewingcraft.brother.eu/en/products/machines/scanncut)
+- [Corner cutter](https://cultpens.com/products/sun-star-kadomaru-pro-black-corner-cutter)
