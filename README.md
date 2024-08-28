@@ -24,6 +24,8 @@ Websites where you can download or purchase print-and-play board games are great
 - <https://www.pnparcade.com/>
 - <https://www.pnpparadise.com/>
 - <https://juegosrollandwrite.com/>
+- <http://www.goodlittlegames.co.uk/>
+- <https://pencilgames.org/>
 
 ## Tokens
 
@@ -120,6 +122,7 @@ Software that helps to design or prototype games.
 - <https://machinations.io/> The online cloud tool for design economies with the machinations framework.
 - [Old Flash version](https://github.com/DleanJeans/Machinations) Simpler, but just works and doesn't need internet. Probably you will need like me, an open source player emulator like [Ruffle](https://ruffle.rs/)
 - <https://www.figma.com/> I specially like the visual components with custom values and variants [explained here](https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Figma)
+- <https://www.18xx-maker.com/> Tool for creating specifically 18XX maps.
 
 ## Monetizing
 
