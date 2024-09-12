@@ -101,6 +101,7 @@ Presentations about board game design and other useful topics.
 - [Luck and Skill in Games](https://www.youtube.com/watch?v=2owa2s8GdlM)
 - [8000 Years of Board Game History in 43 Minutes](https://www.youtube.com/watch?v=Gov-qrjvOTc)
 - [SimCity 30 Years Later: A Retrospective](https://www.youtube.com/watch?v=TrScy1icWjI)
+- [10 lessons learned designing board games](https://www.youtube.com/watch?v=tvykLUFiHxo)
 
 ## Designer's diaries
 
