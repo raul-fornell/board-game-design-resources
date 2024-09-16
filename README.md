@@ -11,6 +11,7 @@ Curated list of resources for board game design, prototyping and playtesting.
   - [Designer's talks](#designers-talks)
   - [Designer's diaries](#designers-diaries)
   - [Game design tools](#game-design-tools)
+  - [Books](#books)
   - [Monetizing](#monetizing)
   - [Game design dedicated sites](#game-design-dedicated-sites)
   - [Calculators](#calculators)
@@ -124,6 +125,17 @@ Software that helps to design or prototype games.
 - [Old Flash version](https://github.com/DleanJeans/Machinations) Simpler, but just works and doesn't need internet. Probably you will need like me, an open source player emulator like [Ruffle](https://ruffle.rs/)
 - <https://www.figma.com/> I specially like the visual components with custom values and variants [explained here](https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Figma)
 - <https://www.18xx-maker.com/> Tool for creating specifically 18XX maps.
+
+## Books
+
+Inspiring books that teach game design. Also for video games.
+
+- [The Art Of Game Design](https://schellgames.com/art-of-game-design)
+- [Challenges for game designers](https://www.amazon.es/Challenges-Game-Designers-Brenda-Brathwaite/dp/158450580X)
+- [100 principles of game design](https://www.amazon.com/100-Principles-Game-Design-DESPAIN/dp/0321902491)
+- [Game mechanics: Advanced game design](https://www.amazon.es/Game-Mechanics-Advanced-Design-Voices/dp/0321820274)
+- [Rules of play](https://www.amazon.es/Rules-Play-Design-Fundamentals-Press/dp/0262240459/ref=pd_sbs_d_sccl_2_1/262-4631191-8876314)
+- [Theory of fun](https://www.theoryoffun.com/)
 
 ## Monetizing
 
