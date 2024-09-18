@@ -135,7 +135,9 @@ Inspiring books that teach game design. Also for video games.
 - [100 principles of game design](https://www.amazon.com/100-Principles-Game-Design-DESPAIN/dp/0321902491)
 - [Game mechanics: Advanced game design](https://www.amazon.es/Game-Mechanics-Advanced-Design-Voices/dp/0321820274)
 - [Rules of play](https://www.amazon.es/Rules-Play-Design-Fundamentals-Press/dp/0262240459/ref=pd_sbs_d_sccl_2_1/262-4631191-8876314)
-- [Theory of fun](https://www.theoryoffun.com/)
+- [Theory of fun](https://www.theoryoffun.com/****)
+- [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Mihaly-Csikszentmihalyi/dp/0061339202)
+- [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
 
 ## Monetizing
 
