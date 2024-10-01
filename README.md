@@ -17,6 +17,7 @@ Curated list of resources for board game design, prototyping and playtesting.
   - [Calculators](#calculators)
   - [Design contests](#design-contests)
   - [Gadgets](#gadgets)
+  - [Magazines](#magazines)
 
 ## Print and play
 
@@ -138,6 +139,7 @@ Inspiring books that teach game design. Also for video games.
 - [Theory of fun](https://www.theoryoffun.com/****)
 - [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Mihaly-Csikszentmihalyi/dp/0061339202)
 - [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
+- [The Kobold guide to board game design](https://www.goodreads.com/book/show/12612706-the-kobold-guide-to-board-game-design)
 
 ## Monetizing
 
@@ -171,3 +173,11 @@ Tools I have or would like to buy because can help with the prototyping. I also 
 
 - [Brother Scan & Cut](https://sewingcraft.brother.eu/en/products/machines/scanncut)
 - [Corner cutter](https://cultpens.com/products/sun-star-kadomaru-pro-black-corner-cutter)
+  
+## Magazines
+
+Board game magazines not about design, but about the games, the industry and the designers, there aren't a lot and are an interesting source of inspiration and history.
+
+- [Senet magazine](https://senetmagazine.com/)
+- [Spielbox magazine](https://www.spielbox.de/)
+- [Tabletop gaming](https://www.tabletopgaming.co.uk/)
