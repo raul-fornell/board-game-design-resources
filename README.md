@@ -89,7 +89,7 @@ Tools to play, create and test board games in a virtual or digital space.
 
 ## Designer's talks
 
-Presentations about board game design and other useful topics.
+Presentations about board game design and other useful topics. Video game related too.
 
 - [Magic: the Gathering': 20 Years, 20 Lessons Learned](https://www.youtube.com/watch?v=QHHg99hwQGY)
 - [Richard Garfield on luck vs skill](https://www.youtube.com/watch?v=dSg408i-eKw)
@@ -104,6 +104,7 @@ Presentations about board game design and other useful topics.
 - [8000 Years of Board Game History in 43 Minutes](https://www.youtube.com/watch?v=Gov-qrjvOTc)
 - [SimCity 30 Years Later: A Retrospective](https://www.youtube.com/watch?v=TrScy1icWjI)
 - [10 lessons learned designing board games](https://www.youtube.com/watch?v=tvykLUFiHxo)
+- [The 100 Games That Taught Me Game Design](https://youtu.be/gWNXGfXOrro?si=Utp1cXiyX8j6xGIy)
 
 ## Designer's diaries
 
@@ -139,7 +140,7 @@ Inspiring books that teach game design. Also for video games.
 - [Theory of fun](https://www.theoryoffun.com/****)
 - [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Mihaly-Csikszentmihalyi/dp/0061339202)
 - [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
-- [The Kobold guide to board game design](https://www.goodreads.com/book/show/12612706-the-kobold-guide-to-board-game-design)
+- [The Kobold guide to board game design](https://www.goodreads.com/book/show/12612706-the-kobold-guide-to-board-game-**design**)
 
 ## Monetizing
 
