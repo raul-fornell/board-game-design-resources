@@ -105,6 +105,7 @@ Presentations about board game design and other useful topics. Video game relate
 - [SimCity 30 Years Later: A Retrospective](https://www.youtube.com/watch?v=TrScy1icWjI)
 - [10 lessons learned designing board games](https://www.youtube.com/watch?v=tvykLUFiHxo)
 - [The 100 Games That Taught Me Game Design](https://youtu.be/gWNXGfXOrro?si=Utp1cXiyX8j6xGIy)
+- [Essay about war games in the military](https://www.youtube.com/watch?v=lYaDXZ2MI-k)
 
 ## Designer's diaries
 
@@ -141,6 +142,8 @@ Inspiring books that teach game design. Also for video games.
 - [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Mihaly-Csikszentmihalyi/dp/0061339202)
 - [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
 - [The Kobold guide to board game design](https://www.goodreads.com/book/show/12612706-the-kobold-guide-to-board-game-**design**)
+- [Little Wars: Rules for playing with toy soldiers](https://en.wikipedia.org/wiki/Little_Wars)
+- [A game of birds and wolves](https://www.amazon.com/Game-Birds-Wolves-Ingenious-Secret/dp/0316492094)
 
 ## Monetizing
 
