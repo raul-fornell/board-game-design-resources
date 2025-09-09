@@ -106,6 +106,7 @@ Presentations about board game design and other useful topics. Video game relate
 - [10 lessons learned designing board games](https://www.youtube.com/watch?v=tvykLUFiHxo)
 - [The 100 Games That Taught Me Game Design](https://youtu.be/gWNXGfXOrro?si=Utp1cXiyX8j6xGIy)
 - [Essay about war games in the military](https://www.youtube.com/watch?v=lYaDXZ2MI-k)
+- [10 Steps to Design Your First Board Game](https://www.youtube.com/watch?v=NoRVn6DrBJ4)
 
 ## Designer's diaries
 
