@@ -107,6 +107,7 @@ Presentations about board game design and other useful topics. Video game relate
 - [The 100 Games That Taught Me Game Design](https://youtu.be/gWNXGfXOrro?si=Utp1cXiyX8j6xGIy)
 - [Essay about war games in the military](https://www.youtube.com/watch?v=lYaDXZ2MI-k)
 - [10 Steps to Design Your First Board Game](https://www.youtube.com/watch?v=NoRVn6DrBJ4)
+- [Elan Lee game designer YouTube channel](https://www.youtube.com/@ElanLee)
 
 ## Designer's diaries
 
@@ -132,7 +133,7 @@ Software that helps to design or prototype games.
 
 ## Books
 
-Inspiring books that teach game design. Also for video games.
+Inspiring books that teach game design, history and also for video games.
 
 - [The Art Of Game Design](https://schellgames.com/art-of-game-design)
 - [Challenges for game designers](https://www.amazon.es/Challenges-Game-Designers-Brenda-Brathwaite/dp/158450580X)
@@ -145,6 +146,10 @@ Inspiring books that teach game design. Also for video games.
 - [The Kobold guide to board game design](https://www.goodreads.com/book/show/12612706-the-kobold-guide-to-board-game-**design**)
 - [Little Wars: Rules for playing with toy soldiers](https://en.wikipedia.org/wiki/Little_Wars)
 - [A game of birds and wolves](https://www.amazon.com/Game-Birds-Wolves-Ingenious-Secret/dp/0316492094)
+- [Pequeño kit de diseño de diseño narrativo (spanish)](https://www.elrefugioeditorial.com/tienda/kit-de-diseno-narrativo)
+- [Pequeño kit de diseño mecánico (spanish)](https://www.elrefugioeditorial.com/tienda/kit-de-diseno-mecanico)
+- [Pequeño kit de diseño de experiencias (spanish)](https://www.elrefugioeditorial.com/kit-de-diseno-de-experiencias)
+- [Un món de jocs (catalan)](https://sugaareditorial.com/tienda/literatura/didactica/un-mon-de-jocs/)
 
 ## Monetizing
 
